@@ -46,6 +46,7 @@ public class BitArray {
 		System.out.println(bitArray.get(1));
 		bitArray.set(2, 0);
 		System.out.println(bitArray.get(2));
+		System.out.println(bitArray.get(3));
 	}
 
 }
